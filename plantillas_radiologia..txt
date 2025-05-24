@@ -1,0 +1,108 @@
+﻿=== TC CRÁNEO SIMPLE ===
+Palabras clave: TC, cráneo, cabeza, sin contraste, encéfalo, ictus, traumatismo
+
+- Indicación clínica: [        ]
+- Técnica: [ TC craneal sin contraste en plano axial con reconstrucciones multiplanares. ]
+- Parénquima cerebral: [        ]
+- Sistema ventricular: [        ]
+- Espacios subaracnoideos/Cisternas: [        ]
+- Estructuras óseas: [        ]
+- Senos paranasales: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== ECOGRAFÍA ABDOMINOPELVICA ===
+Palabras clave: ecografía, abdomen, pelvis, ultrasonido, abdominopélvica, eco
+
+- Indicación clínica: [        ]
+- Técnica: [ Ecografía abdominopélvica realizada con sonda convexa y lineal. ]
+- Hígado: [        ]
+- Vesícula biliar y vía biliar: [        ]
+- Páncreas: [        ]
+- Bazo: [        ]
+- Riñones y vías urinarias: [        ]
+- Vejiga urinaria: [        ]
+- Útero/Ovarios/Próstata (si se visualizan): [        ]
+- Asas intestinales: [        ]
+- Líquido libre: [        ]
+- Adenopatías: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== TC ABDOMINOPELVICO CON CONTRASTE IV EN FASE PORTAL ===
+Palabras clave: TC, abdomen, pelvis, contraste, fase portal, abdominopélvico, potenciada
+
+- Indicación clínica: [        ]
+- Técnica: [ TC abdominopélvico con contraste intravenoso en fase portal. ]
+- Hígado: [        ]
+- Vesícula biliar y vía biliar: [        ]
+- Páncreas: [        ]
+- Bazo: [        ]
+- Glándulas suprarrenales: [        ]
+- Riñones y vías urinarias: [        ]
+- Tubo digestivo: [        ]
+- Adenopatías: [        ]
+- Vasos: [        ]
+- Estructuras óseas y partes blandas: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== TC DE TÓRAX DE ALTA RESOLUCIÓN ===
+Palabras clave: TC, tórax, alta resolución, HRCT, enfermedad intersticial, pulmonar
+
+- Indicación clínica: [        ]
+- Técnica: [ TC de tórax de alta resolución sin contraste. ]
+- Parénquima pulmonar: [        ]
+- Vía aérea: [        ]
+- Pleura: [        ]
+- Mediastino: [        ]
+- Adenopatías: [        ]
+- Estructuras óseas y partes blandas: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== RM CEREBRAL CON SECUENCIAS ESTRUCTURALES ===
+Palabras clave: RM, encéfalo, cerebral, estructurales, T1, T2, FLAIR, neuroimagen
+
+- Indicación clínica: [        ]
+- Técnica: [ RM cerebral con secuencias estructurales (T1, T2, FLAIR, DWI, etc.). ]
+- Parénquima cerebral: [        ]
+- Sistema ventricular: [        ]
+- Espacios subaracnoideos/Cisternas: [        ]
+- Fosa posterior/Tronco encefálico: [        ]
+- Órbitas/Vía óptica: [        ]
+- Huesos del cráneo: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== ANGIOTC DE ARTERIAS PULMONARES ===
+Palabras clave: angioTC, arterias pulmonares, TC, tórax, embolia pulmonar, CTPA
+
+- Indicación clínica: [        ]
+- Técnica: [ AngioTC de arterias pulmonares con contraste intravenoso. ]
+- Arterias pulmonares: [        ]
+- Cavidades cardíacas: [        ]
+- Parénquima pulmonar: [        ]
+- Pleura: [        ]
+- Mediastino: [        ]
+- Adenopatías: [        ]
+- Estructuras óseas y partes blandas: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
+=== ECOGRAFÍA DOPPLER VENOSO DE MIEMBRO INFERIOR ===
+Palabras clave: ecografía, doppler, venoso, miembro inferior, TVP, trombosis, extremidad
+
+- Indicación clínica: [        ]
+- Técnica: [ Ecografía Doppler venoso de miembro inferior realizada. ]
+- Vena femoral común: [        ]
+- Vena femoral superficial: [        ]
+- Vena poplítea: [        ]
+- Venas de la pierna: [        ]
+- Vena safena mayor: [        ]
+- Compresibilidad: [        ]
+- Patrón de flujo: [        ]
+- Trombosis: [        ]
+- Otros hallazgos: [        ]
+- Conclusión: [        ]
+
